@@ -39,7 +39,7 @@ BeTheHero, uma aplicação que tem o de objetivo facilitar o contato com  ONG's 
 2. Execute `yarn` para instalar as dependências;
 3. Execute `yarn start` para iniciar a aplicação;
 
-##Mobile
+## Mobile
 1. Entre na pasta `cd mobile`;
 2. Execute `yarn` para instalar as dependências;
 
