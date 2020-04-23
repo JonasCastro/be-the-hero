@@ -32,7 +32,7 @@ BeTheHero, uma aplicação que tem o de objetivo facilitar o contato com  ONG's 
 ## Backend
 1. Entre na pasta `cd backend`;
 2. Execute `yarn` para instalar as dependências;
-3. Execute `yarn dev` para iniciar o servidor.
+3. Execute `yarn start` para iniciar o servidor.
 
 ## Web 
 1. Entre na pasta `cd frontend`
